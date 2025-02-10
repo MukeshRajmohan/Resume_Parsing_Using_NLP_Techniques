@@ -16,7 +16,6 @@ This project aims to automate the extraction and analysis of resume data using *
 
 ## 📂 Project Files
 - **📄 Project Report:** `AIT526_Team7_AB_BT_MR_VR_Final_Report.pdf`
-- **📜 ReadMe File:** `README.txt`
 - **📓 Jupyter Notebook:** `Resume_Parsing_and_Analysis_using_NLP_Techniques.ipynb`
 - **🌍 HTML Report:** `Resume_Parsing_and_Analysis_using_NLP_Techniques.html`
 
